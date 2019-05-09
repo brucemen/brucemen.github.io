@@ -1,7 +1,7 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Bruce Men:
+authors:
   name: brucemen
   picture: /images/bio-photo-2.jpg
   twitter: "@billyrick"
