@@ -16,7 +16,7 @@
 remote_theme: mmistakes/so-simple-theme
 locale: vi-VN
 title: "The ML Leaner"
-description: "Journal to Machine Learning"
+description: "Journey to Big Data and Machine Learning"
 baseurl:  # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/100x100.png"
