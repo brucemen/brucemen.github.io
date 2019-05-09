@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-remote_theme: mmistakes/so-simple-theme
-locale: en-US
+#remote_theme: mmistakes/so-simple-theme
+locale: vi-VN
 title: "The ML Leaner"
 description: "Journal to Machine Learning"
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl:  # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/100x100.png"
 date_format: "%B %-d, %Y"
 read_time: true
-words_per_minute: 200
+words_per_minute: 180
 mathjax: # MathJax equations, e.g. true
 google_fonts:
   - name: "Source Sans Pro"
@@ -46,8 +46,8 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 7
-paginate_path: /page:num/
+paginate: 10
+paginate_path: /home/page:num/
 
 # Search
 search_full_content: true # can have performance implications for large sites
@@ -73,6 +73,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
 
 # Front Matter Defaults
 defaults:
