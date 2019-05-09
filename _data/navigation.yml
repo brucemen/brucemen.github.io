@@ -3,10 +3,10 @@
 - title: Home
   url: /
 - title: Posts
-  url: /src/posts/
+  url: /posts/
 - title: Categories
-  url: /src/categories/
+  url: /categories/
 #- title: External Page
 #  url: https://whatever-site.com/page.html
 - title: Search
-  url: /src/search/
+  url: /search/
