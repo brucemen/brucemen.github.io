@@ -1,5 +1,5 @@
 ---
-title: "Markup: Title with Special&nbsp;---&nbsp;Characters"
+title: "About to start bigdata journal blog"
 categories:
   - Markup
 tags:
@@ -7,13 +7,10 @@ tags:
   - markup
   - post
   - title
-last_modified_at: 2017-03-09T12:23:27-05:00
+last_modified_at: 2020-06-21T23:11:27-05:00
 ---
 
-```markdown
-&nbsp;---&nbsp;
-```
-
-## Hi all, I will have a post about Kafka this week, maybe a series :). Stay tuned.
+Hi all, I will have a post about Kafka this week, maybe a series :)
+Stay tuned.
 
  
