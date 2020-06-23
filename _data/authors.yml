@@ -4,10 +4,10 @@
 authors:
   name: brucemen
   picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+  twitter: ""
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: 
       icon: fab fa-twitter-square
 
 Cornelius Fiddlebone:
