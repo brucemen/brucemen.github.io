@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 remote_theme: mmistakes/so-simple-theme
 locale: vi-VN
-title: "The Bigdata Blog"
+title: "The Bigdata Guy"
 description: "Journey to Big Data and Machine Learning"
 baseurl:  # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -88,7 +88,7 @@ defaults:
 # Site Author
 author:
   name: brucemen
-  picture: "/images/michael-rose-photo.jpg"
+  picture: "/images/lake.jpeg"
   email:
   twitter:
   links:
